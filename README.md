@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I am a passionate Front End Developer with 7 years of experience crafting beautiful and functional websites and web applications. My primary tech stack includes Vue.js and React.js.
 
 - 🌍 Currently based in Kanagawa, Japan
-- 💼 Working at Pictet Asset Management (Japan)
 
 ## 🛠️ My Skill Set:
 - **Languages:** JavaScript, HTML, CSS

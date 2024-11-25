@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I am a passionate Front End Developer with 7 years
 
 ## 🌟 Featured Projects:
 - **CSS Loading Animation:** Create beautiful loading animations using pure CSS.
-- **Celia Token Miner:** Extension to Automate token mining in the Celia app.
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
